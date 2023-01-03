@@ -1,0 +1,1 @@
+{"version":3,"sources":["style.css"],"names":[],"mappings":"AAAA,WACE,kBAAmB,CACnB,gBACF,CAEA,WACE,aAAc,CACd,qBAAsB,CACtB,mBACF","file":"style.8a8b7513.css","sourceRoot":"..\\src","sourcesContent":[".fieldArea {\n  margin-bottom: 20px;\n  padding-bottom: 0;\n}\n\n.formField {\n  display: block;\n  box-sizing: border-box;\n  padding-bottom: 10px;\n}\n"]}
