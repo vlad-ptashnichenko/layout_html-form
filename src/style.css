@@ -1,1 +1,10 @@
-/* styles go here */
+.fieldArea {
+  margin-bottom: 20px;
+  padding-bottom: 0;
+}
+
+.formField {
+  display: block;
+  box-sizing: border-box;
+  padding-bottom: 10px;
+}
